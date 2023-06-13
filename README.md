@@ -69,15 +69,20 @@ data.
 
 ![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/89d5dcd0-6f8f-43c8-8960-570019a38714)
 
+Standard Cell Designed with OpenXPDK
 
 
-# 28nm process Node
+# 28nm Process Node
 
 Under the guidance of Moore's Law, the feature length of integrated circuits is constantly reducing.
 
 The 28nm process is between 32nm and 22nm. 2013 was the year of 28nm process popularization. Between 2015 and 2016, the 28nm process began to be used in cell phone application processors and basebands chip at scale. 
 
 The planar process can be most cost-effective at 28nm, and 28nm maybe the best planar process in foundry both in performance and cost-efficiency . For the subsequent 16/14nm FinFET process, the cost of IC manufacturing increases by at least 50%. Only applications with huge amount such as cell phones or processors can support the cost and market size. In many applications, 28nm planar process offers good value for performance, and cost balance. 
+
+![81d00d417c3e3dc179ee0d73a42d95d9_figure-4-amd215821](https://github.com/riosmpw/OpenXPDK28/assets/100336131/20b596a1-bc7d-44ca-b5dd-f306b69e4cb3)
+
+28nm HP 6T-SRAM Example – Plan View SEM (Source: chipworks)
 
 # Reference
 
