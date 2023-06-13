@@ -91,8 +91,8 @@ The planar process can be most cost-effective at 28nm, and 28nm maybe the best p
 |------------------------|---------|------------------|---------|
 | google/skywater-pdk    | PDK     | [https://github.com/google/skywater-pdk](https://github.com/google/skywater-pdk)               |         |
 | SkyWater SKY130 PDK    | DOC     | [https://skywater-pdk.readthedocs.io](https://skywater-pdk.readthedocs.io)                |         |
-|       |      |                  |         |
-
+| GlobalFoundries 0.18UM 3.3V/(5V)6V MCU PDK | DOC     |[https://gf180mcu-pdk.readthedocs.io/](https://gf180mcu-pdk.readthedocs.io/)         |         |
+| globalfoundries-pdk-libs-gf180mcu_fd_pr | PDK     |[https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pr](https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pr)    |         |
 
 # About RIOS Lab
 **Ecosystem Wants to be Free**
