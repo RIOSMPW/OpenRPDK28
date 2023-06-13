@@ -45,7 +45,7 @@ data.
 
     -   Symbols
 
-    -   SPICE model and device parameters
+    -   SPICE or Varilog-A model and device parameters
 
     -   Parameterized cells
 
