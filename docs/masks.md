@@ -1,4 +1,4 @@
-This file provide the mask layer information of current OpenXPDK 28nm process.
+This file provide the mask layer information of current OpenRPDK 28nm process.
 
 The following layers are drawn directly on the layout system.
 
