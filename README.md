@@ -1,26 +1,27 @@
-# OpenXPDK28
+# OpenRPDK28
 
 ![rios-ip](https://github.com/riosmpw/OpenXPDK28/assets/100336131/9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8)
 
 **Process Design Kit** (**PDK**) is a set of files or models used within the semiconductor industry to model a fabrication process characteristic for the design tools and its users used to design an integrated circuit. An accurate PDK will increase the chances of first-pass successful silicon and provide good yield for chip.
 
-The **OpenXPDK28** is created by the [RIOS Lab](https://www.rioslab.org/). This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
+The **OpenRPDK28** is created by the [RIOS Lab](https://www.rioslab.org/). This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
 
-![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/0d2ac0d4-3ed2-4ed3-8dcc-449cdbc0eab0)
+![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/49011d44-5929-40a5-8a29-6cacb913df85)
 
-28nm OpenXPDK Content
 
-OpenXPDK28 defines a certain technology variation and characteristic for the 28nm open-source academic processes. Designers may enhance this PDK, tailoring it to their specific design styles and markets.
+28nm OpenRPDK Content
 
-OpenXPDK28 offers a library of blocks for re-use, each one the result of years of research and development. It will plays a pivotal role in open source EDA and process breakthrough:
+OpenRPDK28 defines a certain technology variation and characteristic for the 28nm open-source academic processes. Designers may enhance this PDK, tailoring it to their specific design styles and markets.
 
-1) Access to a OpenXPDK28 means IC designers don’t have to start from scratch. They can choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
+OpenRPDK28 offers a library of blocks for re-use, each one the result of years of research and development. It will plays a pivotal role in open source EDA and process breakthrough:
 
-2) A OpenXPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
+1) Access to a OpenRPDK28 means IC designers don’t have to start from scratch. They can choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
 
-Designers could use the OpenXPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
+2) A OpenRPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
 
-![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/8b3b951a-5c36-41fb-9bce-23d1072cef08)
+Designers could use the OpenRPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
+
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/8b3b951a-5c36-41fb-9bce-23d1072cef08)
 
 Open EDA Ecosystem
 
@@ -29,7 +30,7 @@ Open EDA Ecosystem
 Different tools in the design flow have different input formats for the PDK
 data.
 
-**OpenXPDK28** PDK contains:
+**OpenRPDK28** PDK contains:
 
 -   Technology data
 
