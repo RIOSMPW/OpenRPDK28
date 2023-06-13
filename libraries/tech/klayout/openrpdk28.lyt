@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-2032 OpenXPDK Authors
+2032 OpenRPDK Authors
 -->
 <technology>
- <name>28nm OpenXPDK</name>
- <description>28nm OpenXPDK TECHNOLOGY</description>
+ <name>28nm OpenRPDK</name>
+ <description>28nm OpenRPDK TECHNOLOGY</description>
  <group/>
  <dbu>0.001</dbu>
  <base-path/>
  <original-base-path>$PDK_ROOT/$PDK/libs.tech/klayout</original-base-path>
- <layer-properties_file>openxpdk28.lyp</layer-properties_file>
+ <layer-properties_file>openrpdk28.lyp</layer-properties_file>
  <add-other-layers>true</add-other-layers>
  <reader-options>
   <gds2>
