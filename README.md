@@ -67,6 +67,10 @@ data.
 
     -   A user friendly documents of the process
 
+![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/89d5dcd0-6f8f-43c8-8960-570019a38714)
+
+
+
 # 28nm process Node
 
 Under the guidance of Moore's Law, the feature length of integrated circuits is constantly reducing.
