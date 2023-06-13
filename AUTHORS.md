@@ -7,7 +7,7 @@ To see the full list of contributors, see the revision history insource control.
 # Affiliations
 RISC-V International Open Source Library
 
-TensorChip Coopration
+TensorChip Technolgy Co.,Ltd
 
 # Individuals
 Chen Wei
