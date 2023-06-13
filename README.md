@@ -1,5 +1,7 @@
 # OpenXPDK28
 
+![rios-ip](https://github.com/riosmpw/OpenXPDK28/assets/100336131/9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8)
+
 **Process design kit** (**PDK**) is a set of files or models used within the semiconductor industry to model a fabrication process characteristic for the design tools and its users used to design an integrated circuit. An accurate PDK will increase the chances of first-pass successful silicon and provide good yield for chip.
 
 The **OpenXPDK28** is created by the RIOS Lab. This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
@@ -65,6 +67,15 @@ data.
 
     -   A user friendly documents of the process
 
+# Reference
 
-![rios-ip](https://github.com/riosmpw/OpenXPDK28/assets/100336131/9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8)
+
+| Item                   | Type    | Link             | Comment |
+|------------------------|---------|------------------|---------|
+| google/skywater-pdk    | PDK     | [https://github.com/google/skywater-pdk/tree/main](https://github.com/google/skywater-pdk/tree/main)               |         |
+| SkyWater SKY130 PDK    | DOC     | [https://skywater-pdk.readthedocs.io](https://skywater-pdk.readthedocs.io)                |         |
+|       |      |                  |         |
+
+
+
 
