@@ -15,7 +15,7 @@ OpenRPDK28 defines a certain technology variation and characteristic for the 28n
 
 OpenRPDK28 offers a library of blocks for re-use, each one the result of years of research and development. It will plays a pivotal role in open source EDA and process breakthrough:
 
-1) Access to a OpenRPDK28 means IC designers don’t have to start from scratch. They can choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
+1) Access to a OpenRPDK28 means IC designers don’t have to start from scratch. Designer could choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
 
 2) An OpenRPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
 
