@@ -67,6 +67,14 @@ data.
 
     -   A user friendly documents of the process
 
+# 28nm process Node
+
+Under the guidance of Moore's Law, the feature length of integrated circuits is constantly reducing.
+
+The 28nm process is between 32nm and 22nm. 2013 was the year of 28nm process popularization. Between 2015 and 2016, the 28nm process began to be used in cell phone application processors and basebands chip at scale. 
+
+The planar process can be most cost-effective at 28nm, and 28nm maybe the best planar process in foundry both in performance and cost-efficiency . For the subsequent 16/14nm FinFET process, the cost of IC manufacturing increases by at least 50%. Only applications with huge amount such as cell phones or processors can support the cost and market size. In many applications, 28nm planar process offers good value for performance, and cost balance. 
+
 # Reference
 
 
@@ -77,5 +85,14 @@ data.
 |       |      |                  |         |
 
 
+# About RIOS Lab
+**Ecosystem Wants to be Free**
 
+By David A. Patterson · Director of RIOS Lab
+
+**RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, Rios Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
+
+In November 2019, the RISC-V International Open Source Laboratory (RIOS Lab) was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. Patterson first proposed the Reduced Instruction Set Computer (RISC), an open and free instruction set architecture enabling a new era of processor innovation through open standard collaboration. Released in 2010, the latest Fifth Generation RISC has gained worldwide attention.
+
+The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
 
