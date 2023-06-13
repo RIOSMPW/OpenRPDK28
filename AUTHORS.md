@@ -1,4 +1,4 @@
-This is the list of OpenXPDK28's significant contributors.
+This is the list of OpenRPDK28's significant contributors.
 # Anouncement
 This does not necessarily list everyone who has contributed code, especially since many employees of one corporation may be contributing.
 
