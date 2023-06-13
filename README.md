@@ -70,7 +70,7 @@ data.
 
 ![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/89d5dcd0-6f8f-43c8-8960-570019a38714)
 
-Standard Cell Designed with OpenXPDK
+Standard Cell Designed with OpenRPDK
 
 
 # 28nm Process Node
