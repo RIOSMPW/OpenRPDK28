@@ -1,21 +1,18 @@
 # OpenXPDK28
 
-**Process design kit** (**PDK**) is a set of files or models used within
-the semiconductor industry to model a fabrication process characteristic for the
-design tools and its users used to design an integrated circuit. An accurate PDK
-will increase the chances of first-pass successful silicon and provide good
-yield for chip.
+**Process design kit** (**PDK**) is a set of files or models used within the semiconductor industry to model a fabrication process characteristic for the design tools and its users used to design an integrated circuit. An accurate PDK will increase the chances of first-pass successful silicon and provide good yield for chip.
 
-The **OpenXPDK28** is created by the RIOS Lab. This PDK is open-source and could
-be used for a preliminary template for the industrial level PDK.
+The **OpenXPDK28** is created by the RIOS Lab. This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
 
-OpenXPDK28 defines a certain technology variation and characteristic for the
-28nm open-source academic processes. Designers may enhance this PDK, tailoring
-it to their specific design styles and markets.
+OpenXPDK28 defines a certain technology variation and characteristic for the 28nm open-source academic processes. Designers may enhance this PDK, tailoring it to their specific design styles and markets.
 
-Designers could use the OpenXPDK28 to design, simulate, draw and verify the
-integrated circuit design before puting the design back to the foundry to
-manufacture chips.
+OpenXPDK28 offers a library of blocks for re-use, each one the result of years of research and development. It will plays a pivotal role in open source EDA and process breakthrough:
+
+1) Access to a OpenXPDK28 means IC designers don’t have to start from scratch. They can choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
+
+2) A OpenXPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
+
+Designers could use the OpenXPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
 
 # Description
 
