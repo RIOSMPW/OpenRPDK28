@@ -6,8 +6,7 @@
 
 The **OpenXPDK28** is created by the [RIOS Lab](https://www.rioslab.org/). This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
 
-![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/fdc4ddf9-8764-43c2-9938-640eadb82325)
-
+![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/0d2ac0d4-3ed2-4ed3-8dcc-449cdbc0eab0)
 
 
 OpenXPDK28 defines a certain technology variation and characteristic for the 28nm open-source academic processes. Designers may enhance this PDK, tailoring it to their specific design styles and markets.
@@ -72,7 +71,7 @@ data.
 
 | Item                   | Type    | Link             | Comment |
 |------------------------|---------|------------------|---------|
-| google/skywater-pdk    | PDK     | [https://github.com/google/skywater-pdk/tree/main](https://github.com/google/skywater-pdk/tree/main)               |         |
+| google/skywater-pdk    | PDK     | [https://github.com/google/skywater-pdk](https://github.com/google/skywater-pdk)               |         |
 | SkyWater SKY130 PDK    | DOC     | [https://skywater-pdk.readthedocs.io](https://skywater-pdk.readthedocs.io)                |         |
 |       |      |                  |         |
 
