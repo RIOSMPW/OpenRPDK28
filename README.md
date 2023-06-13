@@ -17,7 +17,7 @@ OpenRPDK28 offers a library of blocks for re-use, each one the result of years o
 
 1) Access to a OpenRPDK28 means IC designers don’t have to start from scratch. They can choose from open-source building blocks which have already proven their efficacy and functionality, resulting in a shorter time to research or market and at lower development costs. 
 
-2) A OpenRPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
+2) An OpenRPDK28 is crucial in the design phase. 28nm PDK-based designs follow a series of design rules which makes them compliant with 28nm open-source process. 
 
 Designers could use the OpenRPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
 
@@ -29,8 +29,10 @@ Open EDA Ecosystem
 
 # Description
 
-Different tools in the design flow have different input formats for the PDK
-data.
+Different tools in the design flow have different input formats for the PDK data.
+
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/6864895f-e799-4360-a804-61e0868dcba4)
+
 
 **OpenRPDK28** PDK contains:
 
