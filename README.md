@@ -14,6 +14,10 @@ OpenXPDK28 offers a library of blocks for re-use, each one the result of years o
 
 Designers could use the OpenXPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
 
+![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/8b3b951a-5c36-41fb-9bce-23d1072cef08)
+
+Open EDA Ecosystem
+
 # Description
 
 Different tools in the design flow have different input formats for the PDK
@@ -35,9 +39,9 @@ data.
 
     -   Symbols
 
-    -   SPICE model and Device parameters
+    -   SPICE model and device parameters
 
-    -   Parameterized Cells
+    -   Parameterized cells
 
 -   Rule check files
 
