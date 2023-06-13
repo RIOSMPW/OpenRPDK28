@@ -110,3 +110,14 @@ The following layers are drawn directly on the layout system.
 | EDAMark    | Metal5\_Res (11)     | Metal 5 Resistor                                                | 110    | 15        |
 | EDAMark    | Metal6\_Res (11)     | Metal6 Resistor                                                 | 110    | 16        |
 | DevMark    | Border               | Border                                                          | 63     | 0         |
+
+
+
+| Term | Definition         |
+|---------------------|-----------------------------|
+| NCOMP               | COMP AND Nplus              |
+| PCOMP               | COMP AND Pplus              | 
+| Field               | NOT COMP                    |
+| Transistor gate     | Poly2 AND COMP              | 
+| N-channel gate      | Nplus AND Poly2 AND COMP    | 
+| P-channel gate      | Pplus AND Poly2 AND COMP    | 
