@@ -1,0 +1,27 @@
+Via1    VIA               35 0
+Via2    VIA               38 0
+Via3    VIA               40 0
+Via4    VIA               41 0
+Via5    VIA               82 0
+
+Metal1  NET,SPNET,PIN,VIA 34 0
+NAME    Metal1/LABEL      34 10
+Metal1  PIN               34 10
+
+Metal2  NET,SPNET,PIN,VIA 36 0
+NAME    Metal2/LABEL      36 10
+Metal2  PIN               36 10
+
+Metal3  NET,SPNET,PIN,VIA 42 0
+NAME    Metal3/LABEL      42 10
+Metal3  PIN               42 10
+
+Metal4  NET,SPNET,PIN,VIA 46 0
+NAME    Metal4/LABEL      46 10
+Metal4  PIN               46 10
+
+Metal5  NET,SPNET,PIN,VIA 81 0
+NAME    Metal5/LABEL      81 10
+Metal5  PIN               81 10
+
+DIEAREA ALL               0  0
