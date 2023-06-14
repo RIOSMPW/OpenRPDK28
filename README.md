@@ -79,15 +79,24 @@ Different tools in the design flow have different input formats for the PDK data
 
 Standard Cell Designed with OpenRPDK
 
-# DTCO
+# DTCO (Design-Technology Co-Optimization)
 
-# DFM( Design for Manufacturing)
+Design Technology Co-Optimization (DTCO) is a methodology that helps semiconductor foundries reduce cost and time-to-market in process development. 
+
+In DTCO flow, design and process technology optimized together to improve performance, power efficiency, transistor density, and cost. DTCO for a new technology node usually involves substantial architectural innovation instead of just delivering the similar structure as the previous process node.
+
+![9abf3fce49e0d040b951aee0e327b5d1_dtco-diagram1-1024x328](https://github.com/riosmpw/OpenRPDK28/assets/100336131/bc719e66-91c9-49ec-b905-d5cdb7c24d45)
+
+DTCO Flow (Source:Synopsys)
+
+# DFM (Design for Manufacturing)
 
 As the IC manufacturing enter sub 40nm tech nodes, DFM become more and more important to make sure more stable yield and lower cost. Manufacturing is facing big challenges in terms of manufacturability, yield ramp-up, and variability.
 
 To addresses these challenges, physical verification and implementation technolgies have been augmented with in-design and signoff DFM checks and automated DFM enhancement, then designers can reduce the impact of variability and improve the manufacturability of IC designs. And foundries also need highly accurate modeling and efficient design analysis, yield enhancements, and mask data preparation in their workflow.
 
-![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/1eaa958a-1f2e-407e-8ecf-21ba8a985f2f)
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/46f7294c-e84c-42cd-9baa-9ad8eb4723f1)
+
 
 Typical DFM flow:
 
