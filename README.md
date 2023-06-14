@@ -8,10 +8,10 @@ The **OpenRPDK28** is Open RIOS PDK, created by the [RIOS Lab](https://www.riosl
 
 ![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/49011d44-5929-40a5-8a29-6cacb913df85)
 
+28nm OpenRPDK Content
+
 **OpenRPDK28 is under constrcuction now**
 
-
-28nm OpenRPDK Content
 
 OpenRPDK28 defines a certain technology variation and characteristic for the 28nm open-source academic processes. Designers may enhance this PDK, tailoring it to their specific design styles and markets.
 
