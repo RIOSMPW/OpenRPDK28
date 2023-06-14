@@ -2,7 +2,7 @@ This file provide the mask layer information of current OpenRPDK 28nm process.
 
 The following layers are drawn directly on the layout system.
 
-| Layer Type | Layer Name(GF)           | Purpose                                                         | GDS \# | Data type |
+| Layer Type | Layer Name(GF)           | Purpose                                                         | GDS \#(GF) | Data type |
 |------------|----------------------|-----------------------------------------------------------------|--------|-----------|
 | Drawn      | COMP (1)             | Diffusion for device and interconnect                           | 22     | 0         |
 | Drawn      | DNWELL               | Deep Nwell                                                      | 12     | 0         |
