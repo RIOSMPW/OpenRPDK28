@@ -88,7 +88,7 @@ In DTCO flow, design and process technology optimized together to improve perfor
 ![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/58bf54e3-be74-4ffb-9f95-a8528c1161de)
 
 
-DTCO Flow (Source:Synopsys)
+DTCO Flow (Source: Synopsys)
 
 # DFM (Design for Manufacturing)
 
