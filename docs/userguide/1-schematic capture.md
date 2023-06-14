@@ -30,8 +30,49 @@ A hide=true will make the specified text invisible when the symbol is displayed 
 
 ![a02e8d97dfea608036fd0cd0959e42ac_xschem_elements_02](https://github.com/riosmpw/OpenRPDK28/assets/100336131/95b57255-8216-42be-a097-0290e0511efd)
 
+# CREATING A CIRCUIT SCHEMATIC
+
+To create a new circuit start from an empty window, run xschem and select New Schematic in the File menu. Suppose we want co create a NAND gate, with two inputs, A and B and one output, Z. Lets start placing the input and output schematic pins; use the Insert key and locate the devices/ipin.sym symbol. After placing it change its lab attribute to 'A'
+
+![76e5141b3ea5d6e32d15b88a061d9fb2_creating_schematic1](https://github.com/riosmpw/OpenRPDK28/assets/100336131/b7061b45-db47-4bde-95f2-2df2c04709aa)
+
+Copy another instance of it and set its lab attribute to B. Next place an output pin devices/opin.sym and set its lab to Z. The result will be as follows:
+
+![e0979d37986e50390489378468dea062_creating_schematic2](https://github.com/riosmpw/OpenRPDK28/assets/100336131/45a15821-f89b-451b-874b-d378be25e143)
+
+Now we need to build the actual circuit. Since we plan to do it in CMOS technology we need nmos and pmos transistors. Place one nmos from devices/nmos4.sym and one pmos from devices/pmos4.sym By selecting them with the mouse, moving (m bindkey), copying ('c' bindkey) place 4 transistors in the following way (the upper ones are pmos4, the lower ones nmos4):
+
+![c625c6dbdd08a4a298bb2c9ac0bda127_creating_schematic3](https://github.com/riosmpw/OpenRPDK28/assets/100336131/e5273dc2-da7d-49e7-a63a-368baaf12c39)
+
+
+now draw wires to connect together the transistor to form a NAND gate; in the picture i have highlighted 2 electrical nodes by selecting one wire segment of each and pressing the 'k' bindkey.
+
+
+![848ee184998a2c30eb46ed783737d2fb_creating_schematic4](https://github.com/riosmpw/OpenRPDK28/assets/100336131/fc05c276-4ebf-49f8-a9d7-b9f902f61f8e)
+
+Next we need to place the supply nodes , VCC and VSS. we decide to use global nodes. Global nodes in SPICE semantics are like global variables in C programs, they are available everywhere, we do not need to propagate global nodes with pins. We could equally well use regular pins , as used for the A and B inputs, I am just showing different design styles. Use the Insert key and place both devices/vdd.sym and devices/gnd.sym Since the default names are respectively VDD and GND use the edit property bindkey 'q' to change these to VCC and VSS.
+
+![266b3c38b645bbe58c4e5eb4b2e22111_creating_schematic5](https://github.com/riosmpw/OpenRPDK28/assets/100336131/0b78f783-658b-431e-bc6c-aa6e6f294e7a)
+
+we still need to connect the body terminals of the mos transistors. One possibility is to hookup the two upper pmos transistor terminals to VCC with wires, and the two bottom nmos terminals to VSS with wires, but just to show different design styles i am planning to use ''by name'' connection with labels. So place a wire label devices/lab_pin.sym and use 4 instances of it to name the 4 body terminals. Remember, while moving (select and press the 'm' key) you can flip/rotate using the R/F keys.
+
+
+![415ef4e2b0f7324178b701704f89e772_creating_schematic6](https://github.com/riosmpw/OpenRPDK28/assets/100336131/eb625905-8b89-410c-8d5a-548f093b2408)
+
+
+Finally we must connect the input and output port connectors, and to complete the gate schematic we decide to use W=8u for the pmos transistors. Select both the pmos devices and press the edit proprty 'q' key; modify from 5u (default) to 8u.
+
+![f9f385fb909b695ba5f6eda08bc7ac6a_creating_schematic7](https://github.com/riosmpw/OpenRPDK28/assets/100336131/b0c832f7-831e-44b9-857d-c60b968e90d2)
+
+Now do a Save as operation, save it for example in mylib/nand2.sch.
+To make the schematic nicer we also add the title component. This component is not netlisted but is useful, it reports the modification date and the author. Place the devices/title.sym component. The NAND gate is completed! (below picture also with grid, normally disabled in pictures to make image sizes smaller).
+
+
+
 
 # Reference
 
 https://xschem.sourceforge.io/stefan/xschem_man/xschem_elements.html
+
+https://xschem.sourceforge.io/stefan/xschem_man/creating_schematic.html
 
