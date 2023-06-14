@@ -10,3 +10,6 @@ As shown in Fig. 1, you start with a circuit (here: an inverter). You have to cr
 The input to ngspice is read from a file, and it may be enhanced by commands given on the command line. The simulated output may be written to a file, or be plotted as a y-x graph or a smith chart. There is no graphical user interface with schematic capture of circuit diagrams and automatic netlist generation, however there are third party tools available to draw the circuit and generate a ngspice netlist.
 
 
+# Reference
+
+https://ngspice.sourceforge.io/ngspice-tutorial.html
