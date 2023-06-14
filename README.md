@@ -33,7 +33,8 @@ Open EDA Ecosystem
 
 Different tools in the design flow have different input formats for the PDK data.
 
-![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/7513b83f-406f-4bc9-8788-3c3bbcc01829)
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/61d08cb4-57c1-4a23-8941-614b1bfddb0e)
+
 
 
 
