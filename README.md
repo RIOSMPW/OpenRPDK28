@@ -23,7 +23,8 @@ OpenRPDK28 offers a library of blocks for re-use, each one the result of years o
 
 Designers could use the OpenRPDK28 to design, simulate, draw and verify the integrated circuit design before puting the design back to the foundry to manufacture chips.
 
-![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/8b3b951a-5c36-41fb-9bce-23d1072cef08)
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/75a95b38-7a87-44c3-8521-2af649e463a9)
+
 
 Open EDA Ecosystem
 
