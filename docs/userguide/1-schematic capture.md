@@ -2,6 +2,7 @@
 
 ## SYMBOLS
 Symbols are graphical elements that represent electrical components. A symbol represents an electronic device, like for example a resistor, a bipolar transistor, an amplifier etc. As you can see graphically symbols are built with lines, rectangles, polygons and texts, the graphical primitives shown before. In the picture below some components are placed in a schematic window. Components are instances of symbols. For example you see three placements of the 'npn' bipolar transistor symbol. Like in C++, where objects are instances of classes, here components are instances of symbols.
+
 ![492ce4fae41d7153a3cad57ae1df84df_xschem_symbols](https://github.com/riosmpw/OpenRPDK28/assets/100336131/ff877469-51b1-4ee6-b859-2b42515ea8c1)
 
 
