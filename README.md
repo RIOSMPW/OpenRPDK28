@@ -85,7 +85,8 @@ Design Technology Co-Optimization (DTCO) is a methodology that helps semiconduct
 
 In DTCO flow, design and process technology optimized together to improve performance, power efficiency, transistor density, and cost. DTCO for a new technology node usually involves substantial architectural innovation instead of just delivering the similar structure as the previous process node.
 
-![9abf3fce49e0d040b951aee0e327b5d1_dtco-diagram1-1024x328](https://github.com/riosmpw/OpenRPDK28/assets/100336131/bc719e66-91c9-49ec-b905-d5cdb7c24d45)
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/58bf54e3-be74-4ffb-9f95-a8528c1161de)
+
 
 DTCO Flow (Source:Synopsys)
 
