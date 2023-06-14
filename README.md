@@ -8,6 +8,8 @@ The **OpenRPDK28** is created by the [RIOS Lab](https://www.rioslab.org/). This 
 
 ![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/49011d44-5929-40a5-8a29-6cacb913df85)
 
+**OpenRPDK28 is under constrcuction now**
+
 
 28nm OpenRPDK Content
 
