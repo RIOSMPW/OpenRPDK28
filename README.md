@@ -29,13 +29,11 @@ Open EDA Ecosystem
 
 
 
-# Description
+## 1 Description
 
 Different tools in the design flow have different input formats for the PDK data.
 
 ![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/61d08cb4-57c1-4a23-8941-614b1bfddb0e)
-
-
 
 
 **OpenRPDK28** PDK contains:
@@ -80,7 +78,7 @@ Different tools in the design flow have different input formats for the PDK data
 
 Standard Cell Designed with OpenRPDK
 
-# DTCO (Design-Technology Co-Optimization)
+## 2 DTCO (Design-Technology Co-Optimization)
 
 Design Technology Co-Optimization (DTCO) is a methodology that helps semiconductor foundries reduce cost and time-to-market in process development. 
 
@@ -91,7 +89,7 @@ In DTCO flow, design and process technology optimized together to improve perfor
 
 DTCO Flow (Source: Synopsys)
 
-# DFM (Design for Manufacturing)
+## 3 DFM (Design for Manufacturing)
 
 As the IC manufacturing enter sub 40nm tech nodes, DFM become more and more important to make sure more stable yield and lower cost. Manufacturing is facing big challenges in terms of manufacturability, yield ramp-up, and variability.
 
@@ -111,12 +109,12 @@ LFD is the methodology to address the urgent issue of how to accurate manage lit
 Chemical mechanical polishing (CMP) or planarization is a process of smoothing surfaces with the combination of chemical and mechanical forces. It can be thought of as a hybrid of chemical etching and free abrasive polishing
 
 
-# IR-Drop and Multi-physics Analysis
+## 4 Multi-Physics and IR-Drop Analysis 
 
 Keep place for Dr. Ren
 
 
-# 28nm Process Node
+## 5 28nm Process Node
 
 Under the guidance of Moore's Law, the feature length of integrated circuits is constantly reducing.
 
@@ -130,7 +128,7 @@ The planar process can be most cost-effective at 28nm, and 28nm maybe the best p
 
 
 
-# Main Reference
+## Main Reference
 
 
 | Item                   | Type    | Link             | Comment |
@@ -146,7 +144,7 @@ The planar process can be most cost-effective at 28nm, and 28nm maybe the best p
 
 
 
-# About RIOS Lab
+## About RIOS Lab
 
 ![image](https://github.com/riosmpw/OpenRPDK28/assets/109063674/6aae13c6-50a5-40c3-9a4e-ed4c79d41c20)
 
