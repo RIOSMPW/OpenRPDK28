@@ -6,7 +6,7 @@
 
 The **OpenRPDK28** is Open RIOS PDK, created by the [RIOS Lab](https://www.rioslab.org/). This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
 
-![image](https://github.com/riosmpw/OpenXPDK28/assets/100336131/49011d44-5929-40a5-8a29-6cacb913df85)
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/4a8d2a86-8078-476f-b730-1d07f6996344)
 
 28nm OpenRPDK Content
 
