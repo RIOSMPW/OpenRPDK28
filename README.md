@@ -79,6 +79,27 @@ Different tools in the design flow have different input formats for the PDK data
 
 Standard Cell Designed with OpenRPDK
 
+# DTCO
+
+# DFM( Design for Manufacturing)
+
+As the IC manufacturing enter sub 40nm tech nodes, DFM become more and more important to make sure more stable yield and lower cost. Manufacturing is facing big challenges in terms of manufacturability, yield ramp-up, and variability.
+
+To addresses these challenges, physical verification and implementation technolgies have been augmented with in-design and signoff DFM checks and automated DFM enhancement, then designers can reduce the impact of variability and improve the manufacturability of IC designs. And foundries also need highly accurate modeling and efficient design analysis, yield enhancements, and mask data preparation in their workflow.
+
+![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/1eaa958a-1f2e-407e-8ecf-21ba8a985f2f)
+
+Typical DFM flow:
+
+1) LFD (Litho Fridenly Design)
+
+LFD is the methodology to address the urgent issue of how to accurate manage lithographic process variability in the early stages of design creation.  Accurately LFD could maintain the lithographic processes on “as-drawn” layout data to determine the actual “as-built” dimensions of fabricated gates and metal interconnects.
+
+2) CMP(Chemical-mechanical polishing)
+
+Chemical mechanical polishing (CMP) or planarization is a process of smoothing surfaces with the combination of chemical and mechanical forces. It can be thought of as a hybrid of chemical etching and free abrasive polishing
+
+
 # IR-Drop and Multi-physics Analysis
 
 
