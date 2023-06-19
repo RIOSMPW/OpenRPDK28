@@ -5,6 +5,7 @@
 **Process Design Kit** (**PDK**) is a set of files or models used within the semiconductor industry to model a fabrication process characteristic for the design tools and its users used to design an integrated circuit. An accurate PDK will increase the chances of first-pass successful silicon and provide good yield for chip.
 
 The **OpenRPDK28** is Open RIOS PDK, created by the [RIOS Lab](https://www.rioslab.org/). This PDK is open-source and could be used for a preliminary template for the industrial level PDK.
+The **OpenRPDK28** is an open-source PDK developed by the [RIOS Lab](https://www.rioslab.org/) and serves as a preliminary template for industrial-level PDKs. The PDK is designed to be flexible and customizable, allowing users to modify it to their specific needs. Additionally, the OpenRPDK28 offers a wide range of features, such as the ability to integrate with open-source EDA tools. The PDK is also accompanied by comprehensive documentation, making it easy for users to get started and begin designing their own chips. Overall, the OpenRPDK28 is an excellent choice for anyone looking to develop their own custom chips and is sure to meet the needs of a wide range of users.
 
 ![image](https://github.com/riosmpw/OpenRPDK28/assets/100336131/0f9578f7-6952-4f26-ba7d-d6dfec5fbe3b)
 
