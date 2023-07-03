@@ -144,7 +144,10 @@ The planar process can be most cost-effective at 28nm, and 28nm maybe the best p
 | Gate level static timing analyzer    |      | [https://github.com/The-OpenROAD-Project/OpenSTA ](https://github.com/The-OpenROAD-Project/OpenSTA )               |         |
 | Neural Networks for Automated Power Delivery Network (PDN) Synthesis    |       | [https://github.com/The-OpenROAD-Project/OpeNPDN ]( https://github.com/The-OpenROAD-Project/OpeNPDN)               |         |
 | IR Solver   |       | [https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/psm ](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/psm )               |         |
-
+| P-Cell   |       | https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pr/tree/main/cells/klayout/pymacros/cells]              |         |
+| STD Cell   |       | https://github.com/thesourcerer8/StdCellLib |         |
+| STD Cell   |       | https://ceat.okstate.edu/ece/faculty/james-stine.html |         |
+| DRC&LVS   |       | https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pv |         |
 
 
 ## About RIOS Lab
