@@ -30,7 +30,10 @@ Design for manufacturability does not always require drastic changes. Every chan
 
 5) For long, parallel metal or polysilicon lines, use wider spacing. (A long line is approximately 50 times the  minimum design length.
 
-6) 
+
+![image](https://github.com/RIOSMPW/OpenRPDK28/assets/100336131/1986b1b2-7826-459a-970a-5ac6969c0ffb)
+
+Optical simulation of Litho( Source: Yorick Trouiller)
 
 ## 4.1 Yield Enhancement Design Techniques
 
