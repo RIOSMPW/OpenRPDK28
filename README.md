@@ -114,7 +114,9 @@ Chemical mechanical polishing (CMP) or planarization is a process of smoothing s
 
 ## 4 Multi-Physics and IR-Drop Analysis 
 
-Keep place for Dr. Ren
+Multi-physics and IR-Drop analysis are important steps in designing electronic chips. Multi-physics analysis allows you to simulate how your chip behaves under different conditions, giving you insight into its performance. This helps you identify potential problems and make improvements before manufacturing. Similarly, IR-Drop analysis ensures that your chip is optimized for power delivery and voltage drops. By analyzing voltage drop across the chip, you can identify areas where voltage may be too low and take steps to fix it. Combining both analyses improves the manufacturability, performance, and reliability of your chip. It's worth noting that while these analyses may add complexity to the design process, their long-term benefits outweigh any drawbacks.
+
+Furthermore, when considering the manufacturing cost and time of a product, it is important to take into account changes in multi-physics and IR-drop. Multi-physics refers to the interaction of different physical phenomena in a manufacturing process, such as thermo-mechanical or electro-thermal interactions. Changes in multi-physics can have a significant impact on the manufacturability of a product and need to be considered during the design phase. Similarly, IR-drop refers to the voltage drop across a circuit due to the resistance of the materials used. This can lead to a significant reduction in power and performance of the device being manufactured. By taking into account changes in multi-physics and IR-drop, engineers and designers can make more informed decisions that will ultimately result in a more robust and efficient manufacturing process.
 
 
 ## 5 28nm Process Node
